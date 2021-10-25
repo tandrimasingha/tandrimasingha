@@ -44,11 +44,11 @@
     <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Tandrima Singha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tandrimasingha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Tandrima Singha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimasingha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a href="https://github.com/tandrimasingha/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tandrimasingha&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/tandrimasingha/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tandrimasingha&repo=convoychat" />
 </a>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
