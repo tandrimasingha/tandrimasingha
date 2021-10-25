@@ -41,7 +41,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Tandrima Singha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tandrimasingha&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Tandrima Singha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tandrimasingha&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Tandrima Singha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimasingha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </br>
