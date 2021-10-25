@@ -45,7 +45,8 @@
   <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Tandrima Singha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimasingha&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   </br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimasingha&layout=compact)](https://github.com/tandrimasingha/github-readme-stats)
+
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
