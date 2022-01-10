@@ -1,6 +1,7 @@
-# 👋
+Hi, 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#">![Modern Wall Texture Monochrome Linkedin Banner](https://user-images.githubusercontent.com/78292851/148796341-01a8e626-cd39-49b9-b72d-1bf5c3faeb78.png)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tandrima Singha </h1>
 <h3 align="center">I'm a passionate Machine learning & Data Analyst enthusiast.</h3>
