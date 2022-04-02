@@ -17,7 +17,7 @@ Hi,
 
 - 📫 How to reach me **tandrimasingha419@gmail.com**
  
--👯 Tech Content Writer at medium- https://medium.com/@tandrima_singha
+- 📫 Tech Content Writer at medium- https://medium.com/@tandrima_singha
 
 
 
