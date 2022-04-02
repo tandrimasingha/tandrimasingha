@@ -9,7 +9,7 @@ Hi,
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying in IEM,Kokata
+- 🔭 I'm currently studying in IEM, Kolkata
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
