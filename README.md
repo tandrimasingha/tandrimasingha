@@ -9,11 +9,15 @@ Hi,
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently studying in 2nd-year IT
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+I am a student currently in my 2nd year pursuing B-Tech in Information Technology. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. 
+Languages:- Java, CPP (Basics), Python (Basics)
+Interest:- Problem-solving, Machine Learning, Sports
+Open-Source:- SWOC, JWOC , Hacktoberfest, GSSOC
+- Won Harvard WECode'22 Scholarship
+- Google WE Scholarship Finalist (Top-500)
+- Cleared CodeJam 2022 Qualification Round
+-  CodeChef Starter 35 Rank - 447
+ - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to Reach me **tandrimasingha419@gmail.com**
  
