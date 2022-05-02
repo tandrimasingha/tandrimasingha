@@ -9,19 +9,14 @@ Hi,
 
 ## 🙋‍♂️ About Me
 
-I am a student currently in my 2nd year pursuing B-Tech in Information Technology. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. 
-Languages:- Java, CPP (Basics), Python (Basics)
-Interest:- Problem-solving, Machine Learning, Sports
-Open-Source:- SWOC, JWOC , Hacktoberfest, GSSOC
-- Won Harvard WECode'22 Scholarship
-- Google WE Scholarship Finalist (Top-500)
-- Cleared CodeJam 2022 Qualification Round
--  CodeChef Starter 35 Rank - 447
- - 👯 I’m looking to collaborate on **OpenSource Projects**
+I am a student currently in my 2nd year pursuing B-Tech in Information Technology. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. I also participated in many Open-Souces namely Script Winter of Code (SWOC) and I attained a rank of 13 there, JGEC Winter of Code 2022 and Hacktoberfect 2021 where I received swags for successfully merging 5 PRs. I received the Google WE Scholarship 2021 by ranking in Top 500 and also received the WEAmplify Scholarship 2022 from Harvard University for their WECode Conference. Recently I got selected as a mentee at Microsoft Engage 2022. I also love Problem-Solving and also cleared Google CodeJam 2022 qualification round. 
 
+ Languages:- Java, CPP (Basics), Python (Basics)
+
+ Interest:- Problem-solving, Machine Learning, Sports
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to Reach me **tandrimasingha419@gmail.com**
- 
-- 📫 Tech Content Writer at medium- https://medium.com/@tandrima_singha
+ - 📫 Tech Content Writer at medium- https://medium.com/@tandrima_singha
 
 
 
