@@ -69,7 +69,7 @@ I am a student currently in my 2nd year pursuing B-Tech in Information Technolog
 <p align="centre">
 
 <a href = "https://www.linkedin.com/in/tandrima-singha-20b2091b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/TandrimaSingha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/tandrima_singha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_tandrima_here_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
