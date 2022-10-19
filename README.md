@@ -1,7 +1,5 @@
 Hi, 
 
-<a href="#">![Modern Wall Texture Monochrome Linkedin Banner](https://user-images.githubusercontent.com/78292851/148796341-01a8e626-cd39-49b9-b72d-1bf5c3faeb78.png)
-
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tandrima Singha </h1>
 <h3 align="center">I'm a passionate Machine learning & Data Analyst enthusiast.</h3>
@@ -15,7 +13,8 @@ I am a student currently in my 2nd year pursuing B-Tech in Information Technolog
  
  Interest:- Problem-solving, Machine Learning, Sports
  
- Tech Content Writer at medium- https://medium.com/@tandrima_singha
+ Tech Content Writer at medium- 
+ https://medium.com/@tandrima_singha
 
  
 ## 🚀 Languages and Tools:
