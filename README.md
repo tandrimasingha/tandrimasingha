@@ -7,14 +7,15 @@ Hi,
 
 ## 🙋‍♂️ About Me
 
-I am a student currently in my 2nd year pursuing B-Tech in Information Technology. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. I also participated in many Open-Souces namely Script Winter of Code (SWOC) and I attained a rank of 13 there, JGEC Winter of Code 2022 and Hacktoberfect 2021 where I received swags for successfully merging 5 PRs. I received the Google WE Scholarship 2021 by ranking in Top 500 and also received the WEAmplify Scholarship 2022 from Harvard University for their WECode Conference. Recently I got selected as a mentee at Microsoft Engage 2022. I also love Problem-Solving and also cleared Google CodeJam 2022 qualification round. 
+I am a pre-final year pursuing B-Tech in Information Technology. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. I also participated in many Open-Souces namely Script Winter of Code (SWOC) and I attained a rank of 13 there, JGEC Winter of Code 2022 and Hacktoberfect 2021. I received the Google WE Scholarship 2021 by ranking in Top 500 and also received the WEAmplify Scholarship 2022 from Harvard University for their WECode Conference. Recently I got selected as a mentee at Microsoft Engage 2022. Few months back I emerged as a winner in SacHacks & Stuck-within-a-Hack Hackathon. My project got a Special mentions in Mesohacks Hackthon. I will be interning at Microsoft this summer. Currently learning JavaScript and trying to do C#. 
 
  Languages:-C++ , Java (Basics),  Python (Basics)
  
  Interest:- Problem-solving, Machine Learning, Sports
  
  Tech Content Writer at medium- 
- https://medium.com/@tandrima_singha
+
+https://medium.com/@tandrima_singha
 
  
 ## 🚀 Languages and Tools:
